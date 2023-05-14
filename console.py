@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Holberton AirBnB Console """
+"""Defines the HBnB console.""" 
 import cmd
 import sys
 import json
